@@ -1,7 +1,9 @@
 # Kotlin by Example
-[![official JetBrains project](https://jb.gg/badges/official-plastic.svg)](https://github.com/JetBrains#jetbrains-on-github)
+[![Obsolete JetBrains project](http://jb.gg/badges/obsolete.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
 
-This is sources of [Kotlin Examples](https://play.kotlinlang.org/byExample/overview).
+Please refer to [Kotlin Tour](https://kotlinlang.org/docs/kotlin-tour-welcome.html) for up-to-date Kotlin learning materials.
+
+------------
 
 ### How to make example
 
