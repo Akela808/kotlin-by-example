@@ -1,7 +1,7 @@
 # Kotlin by Example
 [![Obsolete JetBrains project](http://jb.gg/badges/obsolete.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
 
-Please refer to [Kotlin Tour](https://kotlinlang.org/docs/kotlin-tour-welcome.html) for up-to-date Kotlin learning materials.
+The repository is archived, please refer to [Kotlin Tour](https://kotlinlang.org/docs/kotlin-tour-welcome.html) for up-to-date Kotlin learning materials.
 
 ------------
 
