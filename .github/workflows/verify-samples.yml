@@ -15,7 +15,7 @@ jobs:
           java-version: '11'
           distribution: 'adopt'
       - name: Run a verifier
-        uses: AlexanderPrendota/kotlin-samples-verifier@master
+        uses: AlexanderPrendota/kotlin-samples-verifier@85bb1ffef505148656594762a2f45cdf4c610250 # master
         with:
           push-repository: 'https://github.com/AlexanderPrendota/kotlin-compiler-server'
           tag-filter: '#tag="code" & class="language-run-kotlin" & !validate="false"'
